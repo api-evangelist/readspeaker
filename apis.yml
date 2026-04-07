@@ -9,8 +9,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-02-06'
 modified: '2025-02-06'
 url: >-
@@ -25,8 +24,7 @@ apis:
       format you specify as a response. This file can be stored on your server for
       reuse or further distribution or other use.
     humanURL: ' https://www.readspeaker.com/solutions/speech-production/readspeaker-speechcloud-api/'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://www.readspeaker.com/solutions/speech-production/readspeaker-speechcloud-api/'
