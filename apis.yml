@@ -1,10 +1,10 @@
 aid: readspeaker
 name: ReadSpeaker
 description: >-
-  When using the API from within your software/application, you simply send text
-  to the ReadSpeaker speechCloud API servers and receive audio data in the file
-  format you specify as a response. This file can be stored on your server for
-  reuse or further distribution or other use. 
+  When using the API from within your software/application, you simply send text to
+  the ReadSpeaker speechCloud API servers and receive audio data in the file format
+  you specify as a response. This file can be stored on your server for reuse or further
+  distribution or other use.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -20,10 +20,10 @@ apis:
   - aid: readspeaker:readspeaker
     name: ReadSpeaker
     description: >-
-      When using the API from within your software/application, you simply send
-      text to the ReadSpeaker speechCloud API servers and receive audio data in
-      the file format you specify as a response. This file can be stored on your
-      server for reuse or further distribution or other use. 
+      When using the API from within your software/application, you simply send text
+      to the ReadSpeaker speechCloud API servers and receive audio data in the file
+      format you specify as a response. This file can be stored on your server for
+      reuse or further distribution or other use.
     humanURL: ' https://www.readspeaker.com/solutions/speech-production/readspeaker-speechcloud-api/'
     tags:
       - API
