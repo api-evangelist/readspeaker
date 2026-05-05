@@ -1,0 +1,13 @@
+{
+  "repo": "readspeaker",
+  "feeds": [
+    {
+      "source": "https://www.readspeaker.com/blog/",
+      "feed_url": "https://www.readspeaker.com/blog/feed/",
+      "saved": 10,
+      "title": "Text-to-Speech Blog & Resources - ReadSpeaker"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:34:31Z"
+}
