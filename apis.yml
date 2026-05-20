@@ -46,6 +46,10 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: GitHubOrganization
+    url: https://github.com/ReadSpeaker
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/readspeaker
   - type: Portal
     url: https://www.readspeaker.com/
   - type: Products
