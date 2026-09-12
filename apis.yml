@@ -76,6 +76,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: Website
+    url: https://www.readspeaker.com/
   - type: DomainSecurity
     url: security/readspeaker-domain-security.yml
   - type: GitHubOrganization
