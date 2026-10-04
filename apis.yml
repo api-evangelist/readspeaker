@@ -54,7 +54,7 @@ url: >-
 specificationVersion: '0.23'
 apis:
   - aid: readspeaker:speechcloud-api
-    name: ReadSpeaker speechCloud API
+    name: ReadSpeaker Speech Cloud API
     description: >-
       A cloud-based text-to-speech API. When using the API from within your
       software or application, you simply send text to the ReadSpeaker
