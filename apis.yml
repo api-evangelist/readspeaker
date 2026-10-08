@@ -76,6 +76,12 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: Plans
+    url: plans/readspeaker-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/readspeaker-rate-limits.yml
+  - type: FinOps
+    url: finops/readspeaker-finops.yml
   - type: Website
     url: https://www.readspeaker.com/
   - type: DomainSecurity
