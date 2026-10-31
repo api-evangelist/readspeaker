@@ -1,4 +1,4 @@
-# ReadSpeaker (readspeaker)
+# ReadSpeaker
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,51 +66,103 @@
 
 ReadSpeaker provides text-to-speech (TTS) cloud and embedded solutions used to add voice to websites, mobile apps, e-learning, transportation systems, and more. The speechCloud API converts text into high-quality audio in multiple languages and voices that can be returned in formats such as MP3 for use within applications.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/readspeaker/refs/heads/main/apis.yml)
+**Areas:** Text-to-Speech · Speech · Audio · Voice · Artificial Intelligence · Accessibility
 
-## Scope
+## ReadSpeaker on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for ReadSpeaker is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/readspeaker/](https://apis.io/providers/readspeaker/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Text-to-Speech, Speech, Audio, Voice, AI, Accessibility
+- [ReadSpeaker Speech Cloud API](https://apis.io/apis/readspeaker/speechcloud-api/) — A cloud-based text-to-speech API. When using the API from within your software or application, you simply send text to the ReadSpeaker speechCloud API…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-02-06
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### ReadSpeaker speechCloud API
-A cloud-based text-to-speech API. When using the API from within your software or application, you simply send text to the ReadSpeaker speechCloud API servers and receive audio data in the file format you specify as a response. The audio file can be stored on your server for reuse, further distribution, or other use. Sample code is available in multiple languages including PHP, Java, Objective-C, and C++.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://www.readspeaker.com/solutions/speech-production/readspeaker-speechcloud-api/](https://www.readspeaker.com/solutions/speech-production/readspeaker-speechcloud-api/)
+- [Readspeaker Domain Security](https://apis.io/security/readspeaker/readspeaker-domain-security/)
 
-#### Tags:
+#### Plans and pricing (1)
 
- - Text-to-Speech, Audio, Voice
+Published plans, tiers and prices.
 
-#### Properties
+- [Readspeaker Plans Pricing](https://apis.io/plans/readspeaker/readspeaker-plans-pricing/)
 
-- [Documentation](https://www.readspeaker.com/solutions/speech-production/readspeaker-speechcloud-api/)
-- [Support](https://www.readspeaker.com/support/)
+#### Rate limits (1)
 
-## Common Properties
+Published request limits.
 
-- [Portal](https://www.readspeaker.com/)
-- [Products](https://www.readspeaker.com/products/)
+- [Readspeaker Rate Limits](https://apis.io/rate-limits/readspeaker/readspeaker-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Readspeaker Finops](https://apis.io/finops/readspeaker/readspeaker-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.readspeaker.com/)
 - [Support](https://www.readspeaker.com/support/)
 - [Blog](https://www.readspeaker.com/blog/)
-- [About](https://www.readspeaker.com/about-us/)
-- [Contact](https://www.readspeaker.com/contact/)
-- [PrivacyPolicy](https://www.readspeaker.com/privacy-policy/)
+- [Privacy policy](https://www.readspeaker.com/privacy-policy/)
+- [GitHub](https://github.com/ReadSpeaker)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 14.7** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.1** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/readspeaker/](https://apis.io/providers/readspeaker/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ReadSpeaker: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/readspeaker/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
